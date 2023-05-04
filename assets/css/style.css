@@ -3,11 +3,12 @@
     padding: 0;
     margin: 0;
 }
-
+/* sets the background color for the main body of the website */
 body {
     background-color: #d9dcd6;
 }
 
+/* class that sets the font, font color, padding and background color for text within the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ body {
     color: #ffffff;
 }
 
+/* class that set the font size for the header, and the display to allow the navigation to be inline with the logo*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* class that sets a separate font color for part of the logo */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed div tags to HTML semantic coding for header */
+/* class that sets the font, font size, padding and right margin for the navigation links */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,11 +45,13 @@ body {
     margin-left: 25px;
 }
 
+/* element that sets the font color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* element that sets the font size for paragraphs*/
 p {
     font-size: 16px;
 }
