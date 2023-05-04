@@ -6,15 +6,14 @@ Update the website for Horiseon to comply with accessibility standards and enhan
 
 Through this project, I received an in-depth, hands-on experience working with HTML semantics as well as reviewing and commenting code.
 
+## License
+
+N/A
+
 ## Image
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+(./assets/website-rework-ss1.jpg)
+(./assets/website-rework-ss2.jpg)
 
 ## Credits
 
