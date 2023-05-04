@@ -56,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* class that sets formatting for main image at top of home page */
 .hero {
     height: 800px;
     width: 100%;
@@ -65,22 +66,26 @@ p {
     background-position: center;
 }
 
+/* class that is applied to shift content to the left, currently applied to SEO and SMM articles */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* class that is applied to shift content to the right, currently applied to Online Reputation Management article */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*class that sets width, display and left margin for webpage content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* class that sets font, background color, margins and spacings in aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -92,6 +97,7 @@ p {
     background-color: #2589bd;
 }
 
+/* classes that set margins and color in asides */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -107,6 +113,7 @@ p {
     color: #ffffff;
 }
 
+/* margin and text alignment coding for h3 headers */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -122,6 +129,7 @@ p {
     text-align: center;
 }
 
+/* coding for images in asides */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -140,6 +148,7 @@ p {
     max-width: 150px;
 }
 
+/* coding for articles */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -167,6 +176,7 @@ p {
     color: #ffffff;
 }
 
+/* image coding for images within articles */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -179,6 +189,7 @@ p {
     max-height: 200px;
 }
 
+/* margin and font size coding for h2 headers */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -194,6 +205,7 @@ p {
     font-size: 36px;
 }
 
+/* coding for footer */
 .footer {
     padding: 30px;
     clear: both;
