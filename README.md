@@ -12,8 +12,10 @@ N/A
 
 ## Image
 
-(./assets/website-rework-ss1.jpg)
-(./assets/website-rework-ss2.jpg)
+The following image demonstrates the web application's appearance:
+
+![Screenshot image of Horiseon webpage](assets\images\website-rework-ss1.jpg)
+![Screenshot image of Horiseon webpage](assets\images\website-rework-ss2.jpg)
 
 ## Credits
 
