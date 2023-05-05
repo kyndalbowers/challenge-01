@@ -15,6 +15,8 @@ The following image demonstrates the web application's appearance:
 
 ## Credits
 
+Utilized source code from class repo - Module 01 Challenge 01
+
 Collaboration with Group 1 from UCB April 2023 Bootcamp to clarify instructions and to check work.
 
 Referenced LearnTheWeb blog for HTML semantics cheat sheet
