@@ -2,7 +2,7 @@
 
 ## Description
 
-Update the website for Horiseon to comply with accessibility standards and enhance search engine optimization. We use semantic HTML elements, logical structure, alt attributes that support accessibility standards, proper heading order and description titles to enable the website to be more user-friendly and inclusive.
+This project was to update the website for Horiseon to comply with accessibility standards and enhance search engine optimization. We use semantic HTML elements, logical structure, alt attributes that support accessibility standards, proper heading order and description titles to enable the website to be more user-friendly and inclusive.
 
 Through this project, I received an in-depth, hands-on experience working with HTML semantics as well as reviewing and commenting code.
 
@@ -10,8 +10,12 @@ Through this project, I received an in-depth, hands-on experience working with H
 
 The following image demonstrates the web application's appearance:
 
-![Screenshot image of Horiseon webpage](assets\images\website-rework-ss1.jpg)
-![Screenshot image of Horiseon webpage](assets\images\website-rework-ss2.jpg)
+![Screenshot image of Horiseon webpage](./assets/images/website-rework-ss1.jpg)
+![Screenshot image of Horiseon webpage](./assets/images/website-rework-ss2.jpg)
+
+## Link
+
+https://github.com/kyndalbowers/challenge-01-seo-website-rework
 
 ## Credits
 
